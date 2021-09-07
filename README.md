@@ -1,2 +1,2 @@
-# Python30Days-
+# Python30Days
 Python Notes
